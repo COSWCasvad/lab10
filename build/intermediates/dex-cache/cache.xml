@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_b036356797e028abe57729b784f13e87d560b286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_b9b5ca64035c1fcfa3cbd7416db66d9ff5bd0cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_3983f37828b8b54a611a056e99dffc70880c8553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.android\build-cache\06016dea5061859b8f8b979ebe19ef808cfe3062\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_cd4a1618b683dea3cba58a6b397b6bba6007183f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.android\build-cache\38651f536785a52b8adc4001d1375a7ea8d5225d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_e932cc9d83eb1cd8ba57eb26a3f2864097e628a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.android\build-cache\31f930aa88210c5d3d6b9b54df65c62234d51018\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_61bc7e90e1be1bbdd224855572089d9ae63be6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\5.0\1f065373aeef355dd9e2fd9854efd5ed4d54f6d\ormlite-android-5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01f065373aeef355dd9e2fd9854efd5ed4d54f6d">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\ormlite-android-5.0_9cbca991a4222d3291dad03a8f7bf896a334b03d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.android\build-cache\7896d0cea1bcadcfdace69cca5bbd6ef57a55b09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_fbec567a61ce798a16ff9d34064e9aa19df298f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.android\build-cache\782756e1391913e1b9d384f8185305c4826699e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_7c3ae980f809d560b07cfa7eeca3cac6600d7f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.android\build-cache\60d31d39323c05ff9ab9ca23e8e9c7d8e78e11b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_2c1dfa7f44680afc970e5dacb255095c141c75c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\gson-2.7_b39d4f42967fd6adcf9681db50b639bf9c27c35f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.android\build-cache\2af8f6271fd86cee847e6432400a4454671bae28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_96020e8684d2e33ece7f11eeb8371e8e9b13bc5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_de621b92954422d5fb994647efb9d60e7388c257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_958b38c7b0bd7d45739e9ddaed889737f3d49a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.android\build-cache\295b8ab451d5cb305229874639b06d634c3d303c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_d1c0cb986c997cac3df97d9d37c9f10985cb3c23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\okio-1.11.0_3dc093a1671a72831419dff855fd8a63b26d7bee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.android\build-cache\ff56a33ffbb47a16b8cc349e4a5299adadae3208\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_10cbe2f698d2dd04f888f2afb7ab9c1c8ccd3777.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\5.0\3382b8260646dd334a1b9c1b3d412fcb73d8b21\ormlite-core-5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03382b8260646dd334a1b9c1b3d412fcb73d8b21">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\ormlite-core-5.0_7901820384d40777478841aa582eed26ea3ab3a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.android\build-cache\66de3e077107161668e6f5321bdf94552976fecf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_4a32001b571b1c266b6d37d8a57492533290c0dc.jar" />
+    </item>
+
+</items>

@@ -29,6 +29,10 @@ dependencies {
   //ORMLite
   compile 'com.j256.ormlite:ormlite-android:5.0'
 
+  //retrieving data from the API using Retrofit
+  compile 'com.squareup.retrofit2:retrofit:2.2.0'
+  compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+
 
 
   testCompile 'junit:junit:4.12'
