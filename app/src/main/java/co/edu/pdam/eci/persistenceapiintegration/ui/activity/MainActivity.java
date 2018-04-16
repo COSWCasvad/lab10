@@ -2,6 +2,8 @@ package co.edu.pdam.eci.persistenceapiintegration.ui.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 
 import java.io.IOException;
 import java.util.List;
@@ -16,6 +18,7 @@ import co.edu.pdam.eci.persistenceapiintegration.data.entity.Team;
 import co.edu.pdam.eci.persistenceapiintegration.network.NetworkException;
 import co.edu.pdam.eci.persistenceapiintegration.network.RequestCallback;
 import co.edu.pdam.eci.persistenceapiintegration.network.RetrofitNetwork;
+import co.edu.pdam.eci.persistenceapiintegration.ui.adapter.TeamsAdapter;
 
 public class MainActivity
     extends AppCompatActivity
@@ -23,6 +26,8 @@ public class MainActivity
 
     private OrmModel ormModel;
     private RetrofitNetwork retrofitNetwork;
+
+    private RecyclerView recyclerView;
 
     @Override
     protected void onCreate( Bundle savedInstanceState )
@@ -79,17 +84,25 @@ public class MainActivity
 
         try {
             for(Team t:teamDao.getAll()){
-                System.out.println("---------------------------------------");
-                System.out.println(t);
+
             }
         } catch (DBException e) {
             e.printStackTrace();
         }
 
+        try {
+            configureRecyclerView();
+        } catch (DBException e) {
+            e.printStackTrace();
+        }
+    }
 
-
-
-
-
+    private void configureRecyclerView() throws DBException {
+        recyclerView = (RecyclerView) findViewById( R.id.recyclerView );
+        recyclerView.setHasFixedSize( true );
+        RecyclerView.LayoutManager layoutManager = new LinearLayoutManager( this );
+        recyclerView.setLayoutManager( layoutManager );
+        List teams = ormModel.getTeamDao().getAll();
+        recyclerView.setAdapter( new TeamsAdapter( teams ) );
     }
 }
