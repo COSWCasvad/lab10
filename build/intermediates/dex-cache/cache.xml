@@ -48,12 +48,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.android\build-cache\5eb84b953ed7331131a1c6857ca7c426f8a08bf8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_2a1bc483bb5916b7bd7bfeb7882b518a358e66ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\carlos.sanchez-v\.android\build-cache\31f930aa88210c5d3d6b9b54df65c62234d51018\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
         <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_61bc7e90e1be1bbdd224855572089d9ae63be6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.sanchez-v\.android\build-cache\6bb28fc69283fd7afa1f4c4d8f370763e8d2aaca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_8a7421da928e6dbc8e6405bbfa30f7c1d16d83bc.jar" />
     </item>
     <item
         is-multidex="false"

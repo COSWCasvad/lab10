@@ -28,6 +28,8 @@ public class MainActivity
     private RetrofitNetwork retrofitNetwork;
 
     private RecyclerView recyclerView;
+    private TeamsAdapter teamsAdapter;
+    private List<Team> teams;
 
     @Override
     protected void onCreate( Bundle savedInstanceState )
@@ -63,6 +65,7 @@ public class MainActivity
                             for(Team t:response){
                                 try {
                                     teamDao.create(t);
+
                                 } catch (DBException e) {
                                     e.printStackTrace();
                                 }
@@ -73,6 +76,7 @@ public class MainActivity
                         public void onFailed(NetworkException e) {
                             e.printStackTrace();
                         }
+
                     });
                 }
                 catch ( Exception e )
@@ -83,26 +87,23 @@ public class MainActivity
         } );
 
         try {
-            for(Team t:teamDao.getAll()){
-
-            }
-        } catch (DBException e) {
-            e.printStackTrace();
-        }
-
-        try {
+            teams = teamDao.getAll();
             configureRecyclerView();
+
+
         } catch (DBException e) {
             e.printStackTrace();
         }
     }
 
     private void configureRecyclerView() throws DBException {
+        teamsAdapter = new TeamsAdapter(teams,this);
         recyclerView = (RecyclerView) findViewById( R.id.recyclerView );
         recyclerView.setHasFixedSize( true );
         RecyclerView.LayoutManager layoutManager = new LinearLayoutManager( this );
         recyclerView.setLayoutManager( layoutManager );
-        List teams = ormModel.getTeamDao().getAll();
-        recyclerView.setAdapter( new TeamsAdapter( teams ) );
+        recyclerView.setAdapter(teamsAdapter);
     }
 }
+
+

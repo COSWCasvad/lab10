@@ -39,4 +39,16 @@ public class Team extends BaseEntity
                 ", imageUrl='" + imageUrl + '\'' +
                 '}';
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getShortName() {
+        return shortName;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
 }
