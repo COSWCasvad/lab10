@@ -1,5 +1,6 @@
 package co.edu.pdam.eci.persistenceapiintegration.ui.activity;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
@@ -30,12 +31,14 @@ public class MainActivity
     private RecyclerView recyclerView;
     private TeamsAdapter teamsAdapter;
     private List<Team> teams;
+    private Activity activity;
 
     @Override
     protected void onCreate( Bundle savedInstanceState )
     {
         super.onCreate( savedInstanceState );
         setContentView( R.layout.activity_main );
+        activity=this;
         ormModel = new OrmModel();
         ormModel.init(this);
         final TeamDao teamDao = ormModel.getTeamDao();
@@ -70,6 +73,13 @@ public class MainActivity
                                     e.printStackTrace();
                                 }
                             }
+
+                            activity.runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    showView(teamDao);
+                                }
+                            });
                         }
 
                         @Override
@@ -86,6 +96,10 @@ public class MainActivity
             }
         } );
 
+        showView(teamDao);
+    }
+
+    private void showView(TeamDao teamDao) {
         try {
             teams = teamDao.getAll();
             configureRecyclerView();

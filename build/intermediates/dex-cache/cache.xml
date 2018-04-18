@@ -2,193 +2,211 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_b036356797e028abe57729b784f13e87d560b286.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_b9b5ca64035c1fcfa3cbd7416db66d9ff5bd0cc1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_3983f37828b8b54a611a056e99dffc70880c8553.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.android\build-cache\06016dea5061859b8f8b979ebe19ef808cfe3062\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_cd4a1618b683dea3cba58a6b397b6bba6007183f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.android\build-cache\38651f536785a52b8adc4001d1375a7ea8d5225d\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_e932cc9d83eb1cd8ba57eb26a3f2864097e628a5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.android\build-cache\5eb84b953ed7331131a1c6857ca7c426f8a08bf8\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_2a1bc483bb5916b7bd7bfeb7882b518a358e66ee.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.android\build-cache\31f930aa88210c5d3d6b9b54df65c62234d51018\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_61bc7e90e1be1bbdd224855572089d9ae63be6a0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.android\build-cache\6bb28fc69283fd7afa1f4c4d8f370763e8d2aaca\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_8a7421da928e6dbc8e6405bbfa30f7c1d16d83bc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\5.0\1f065373aeef355dd9e2fd9854efd5ed4d54f6d\ormlite-android-5.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="01f065373aeef355dd9e2fd9854efd5ed4d54f6d">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\ormlite-android-5.0_9cbca991a4222d3291dad03a8f7bf896a334b03d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.android\build-cache\7896d0cea1bcadcfdace69cca5bbd6ef57a55b09\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_fbec567a61ce798a16ff9d34064e9aa19df298f9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.android\build-cache\782756e1391913e1b9d384f8185305c4826699e1\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_7c3ae980f809d560b07cfa7eeca3cac6600d7f52.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.android\build-cache\60d31d39323c05ff9ab9ca23e8e9c7d8e78e11b2\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_2c1dfa7f44680afc970e5dacb255095c141c75c9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\gson-2.7_b39d4f42967fd6adcf9681db50b639bf9c27c35f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.android\build-cache\2af8f6271fd86cee847e6432400a4454671bae28\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_96020e8684d2e33ece7f11eeb8371e8e9b13bc5f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_de621b92954422d5fb994647efb9d60e7388c257.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_958b38c7b0bd7d45739e9ddaed889737f3d49a9d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.android\build-cache\295b8ab451d5cb305229874639b06d634c3d303c\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_d1c0cb986c997cac3df97d9d37c9f10985cb3c23.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\okio-1.11.0_3dc093a1671a72831419dff855fd8a63b26d7bee.jar" />
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_2dad3ed0adc97804d99fb822ee954cdab0fd7d76/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.android\build-cache\ff56a33ffbb47a16b8cc349e4a5299adadae3208\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2e82d12d9e93e4258ff11160583d54759fb8ecf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.android/build-cache/7e2c9245d795cdd5d00377e55d217855b813d3ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18ffe062f3d53ea51c0bd18984503b4064664cf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.android/build-cache/5604332487652d0a3bc889d7c4e4d6fe6784b9d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22494af4b10b71ef277cf963c206e5c623e30ead/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/share/SDK/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_98593734e78e2f04a13156c145e408949b807655/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_c8e95c0e0770c9bedb0b5adf3aa6501f0bb5a5c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/share/SDK/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_29b01fba222c8248a7464d02291b82a80f44a6a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.android/build-cache/98b990e08ec92b5b5e4d0a6aa32fe9b33f33132f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_702604286745d66622f35eba6838cbe58f032c58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.android/build-cache/4a13c2cde264b5423e3f9bc6ed4904796c7f9c28/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eec1562d8b6a4672e71cd1651e4ba99a80e87429/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.android/build-cache/b2d066920f2457c35b280b7896384572c6d3ccd5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46f1dd59cd3a6223f37be2f7e4cb76a00dbbe7cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93ad742da0ffff43f775661f054f2e05b55ea664">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a02246dd8c528020e81c3f8977e850c875261e7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.android/build-cache/5e57f1cb19ef241b40aa1f1102c3d9c4c899cb13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_209bea6fe8a3be37778e053e8be154bdc70318db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_87b7adc1b3a7c98305b1acaa3be8b6d2bdf3ce52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.2.0_c398ce91e18babb09dd245c4ea263b2d234ad917/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.android/build-cache/ece1e4a54a412feb1e76e8464eadcbc8323a6ff9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_477e1454dcda73a9d7c6375d320cd9f99ae100bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.android/build-cache/c4b156ba1e12cdaee3cdaea88b500f357d70a499/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_10cbe2f698d2dd04f888f2afb7ab9c1c8ccd3777.jar" />
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59bd777c80fe435a19ae25cd21a8b116727c7b83/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\5.0\3382b8260646dd334a1b9c1b3d412fcb73d8b21\ormlite-core-5.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_e87e396f98aa7a41a671c6879c81c104ad1bd72a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.android/build-cache/d3b4f4bf177d989a7c1f6642a2cb8f41a657ca71/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f738d15f58537239e0f35bd791479dcfb6fd131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/5.0/3382b8260646dd334a1b9c1b3d412fcb73d8b21/ormlite-core-5.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="03382b8260646dd334a1b9c1b3d412fcb73d8b21">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\ormlite-core-5.0_7901820384d40777478841aa582eed26ea3ab3a2.jar" />
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/ormlite-core-5.0_d3224d68f9204a584cf4738c75e7f24da5dcf4a9/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\carlos.sanchez-v\.android\build-cache\66de3e077107161668e6f5321bdf94552976fecf\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.android/build-cache/f1be4a74b51c5762f4db6e729d65cfc9c7af5031/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="C:\Users\carlos.sanchez-v\Downloads\android-persistance-api-integration\app\build\intermediates\pre-dexed\debug\classes_4a32001b571b1c266b6d37d8a57492533290c0dc.jar" />
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e87784cfcf907191b23c30c968fb56e28df3776/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/5.0/1f065373aeef355dd9e2fd9854efd5ed4d54f6d/ormlite-android-5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01f065373aeef355dd9e2fd9854efd5ed4d54f6d">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/ormlite-android-5.0_19c6510fb939410a7355a97a945988ae0b9c6e22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.android/build-cache/1a8eb48c30117b540776e060d8f25545f4ab103e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12fdedc56a4370ba11cb19dcb5db5ce309be46e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/LABINFO/2105534/.android/build-cache/9158c3898fcd2f5af0a2e7a70e7250e7a2a7fc02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/local/LABINFO/2105534/Downloads/lab10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35150e10967ba2e8522035a787145b4eb23d547a/classes.dex" />
     </item>
 
 </items>
